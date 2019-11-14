@@ -1,6 +1,6 @@
 {
     "teacher": {
-        "tuid": "35684022"
+        "tuid": "222222222"
     },
     "sdkMode": {
         "mode": 1

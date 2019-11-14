@@ -1,0 +1,51 @@
+{
+    "teacher": {
+        "tuid": "35684022"
+    },
+    "sdkMode": {
+        "mode": 1
+    },
+    "qoeMode": {
+        "enable": 1
+    },
+    "proxy": {
+        "flag": 1,
+        "ip": "",
+        "port": 1
+    },
+    "createEngine": {
+        "apptype": 2,
+        "roomtype": 2
+    },
+    "token": {
+        "token": "parent 35919332 fa1a494d-259c-4a9c-b1e2-f1a5d3ee0e08"
+    },
+    "hostAddress": {
+        "apn": "VIPKID",
+        "app": "student_android",
+        "appid": "qsq4rnvlc3k9o2yl1rlr8gbfs63ppl6ah",
+        "clientIp": "172.23.124.13",
+        "den": "2.0",
+        "deviceId": "45bc48272a4c2694",
+        "dis": "1200_1920",
+        "gossipHost": "https://gossip.vipkid.com.cn/",
+        "host": "https://learning.vipkid.com.cn/rest/classroomgw/",
+        "man": "HUAWEI",
+        "mod": "BAH2-AL10",
+        "net": "0",
+        "os": "a",
+        "ovc": "26",
+        "ovn": "8.0.0",
+        "role": 2,
+        "roomId": "101564781019333",
+        "svc": "159",
+        "svn": "1.5.10",
+        "tn": "vipkid",
+        "uid": "45bc48272a4c2694",
+        "userAgent": "mod:BAH2-AL10;ovc:26;android-pad",
+        "userId": "35919333",
+        "userName": "STUDENT",
+        "vc": "150",
+        "vn": "1.5.0"
+    }
+}
